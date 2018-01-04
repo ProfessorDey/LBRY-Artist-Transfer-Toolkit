@@ -7,6 +7,7 @@ This toolkit is built to provide an interface and database for Artists that have
 ## What it _will_ contain:
 
   A Web Interface that provides options to:
+  
     - Manage the database
     - Select content sites to download content from
     - Add new content directly to the database
@@ -14,6 +15,7 @@ This toolkit is built to provide an interface and database for Artists that have
     - Manage wallet, claims and channels on LBRY Network
 
   A Database that contains:
+  
     - Content Title
     - Copyright Information (Character Owners and Default Licences)
     - MD5 & SHA256 Hashes
